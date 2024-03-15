@@ -16,7 +16,7 @@ bool check(vector<int> &nums, int size)
 
 int main()
 {
-    vector<int> nums = {8, 7, 1, 5, 5};
+    vector<int> nums = {5, 6, 7, 4};
     int size = nums.size();
     cout << check(nums, size);
     return 0;
