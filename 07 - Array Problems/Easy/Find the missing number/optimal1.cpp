@@ -15,7 +15,7 @@ int findMissing(vector<int> &arr, int n)
     int missingNum = sum1 - sum2;
     return missingNum;
 }
-
+// Tc is O(n) SC is O(1)
 int main()
 {
     vector<int> arr = {1, 2, 3, 4, 6};
