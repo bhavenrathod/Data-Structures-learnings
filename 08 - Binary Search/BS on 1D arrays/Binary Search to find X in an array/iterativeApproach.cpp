@@ -18,7 +18,7 @@ int search(vector<int> &arr, int n, int target)
     return -1;
 }
 
-// TC is O(log n)
+// TC is O(log n) (base 2)
 
 int main()
 {
