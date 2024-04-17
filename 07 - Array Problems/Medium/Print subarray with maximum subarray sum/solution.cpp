@@ -48,6 +48,9 @@ long long maxSubarraySum(vector<int> &arr, int n)
     return maxi;
 }
 
+// TC is O(n)
+// SC is O(1)
+
 int main()
 {
     vector<int> arr = {-2, 1, -3, 4, -1, 2, 1, -5, 4};
