@@ -24,6 +24,9 @@ vector<int> rearrange(vector<int> arr, int n)
     return temp;
 }
 
+// TC is O(n)
+// SC is O(n)
+
 int main()
 {
     vector<int> arr = {1, 2, -4, -5};
