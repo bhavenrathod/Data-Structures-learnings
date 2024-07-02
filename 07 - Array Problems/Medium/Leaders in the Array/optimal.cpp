@@ -19,6 +19,9 @@ vector<int> findLeaders(vector<int> &arr)
     return ans;
 }
 
+// TC is O(n)
+// SC is O(n)
+
 int main()
 {
     vector<int> arr = {10, 22, 3, 0, 6};
