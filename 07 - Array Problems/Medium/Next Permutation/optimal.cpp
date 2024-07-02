@@ -36,6 +36,9 @@ vector<int> permutation(vector<int> &arr, int n)
     return arr;
 }
 
+// TC is O(3n)
+// SC is O(1)
+
 int main()
 {
     vector<int> arr = {1, 2, 3};
