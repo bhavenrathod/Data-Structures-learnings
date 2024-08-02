@@ -28,7 +28,7 @@ vector<int> findMajority(vector<int> &arr)
 }
 
 // TC is ~ O(n^2)
-// SC is O(1    )
+// SC is O(1)
 
 int main()
 {
